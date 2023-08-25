@@ -1,0 +1,27 @@
+{
+	"id": "47e58bc6-e943-430f-b236-6ebc55f900c3",
+	"name": "Book_API_ENV",
+	"values": [
+		{
+			"key": "bookId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-03-29T15:59:59.102Z",
+	"_postman_exported_using": "Postman/9.15.6"
+}
